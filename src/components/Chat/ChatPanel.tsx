@@ -25,7 +25,7 @@ interface ChatPanelProps {
 type PanelSize = 'small' | 'medium' | 'large';
 
 // API Configuration
-let API_URL = 'http://web-production-f29e5.up.railway.app';
+let API_URL = 'https://web-production-f29e5.up.railway.app';
 const API_KEY = 'fwnelrjrl2ur08d9s0fsdhf90324h30493';
 
 // Regex to detect redirect commands in response

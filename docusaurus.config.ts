@@ -30,7 +30,7 @@ const config: Config = {
 
   // Custom fields for API configuration (used in your hooks)
   customFields: {
-    apiUrl: process.env.REACT_APP_API_URL || 'http://web-production-f29e5.up.railway.app',
+    apiUrl: process.env.REACT_APP_API_URL || 'https://web-production-f29e5.up.railway.app',
 
     apiKey: process.env.REACT_APP_API_KEY || '',
   },
