@@ -22,7 +22,7 @@ export default {
   },
   "customFields": {
     "apiUrl": "https://web-production-f29e5.up.railway.app",
-    "apiKey": ""
+    "apiKey": "backend1234"
   },
   "presets": [
     [

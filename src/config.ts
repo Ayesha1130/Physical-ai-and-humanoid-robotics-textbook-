@@ -11,11 +11,11 @@ export function useApiConfig() {
   
   return {
     apiUrl: customFields?.apiUrl || 'https://web-production-f29e5.up.railway.app',
-    apiKey: customFields?.apiKey || '',
+    apiKey: customFields?.apiKey || 'backend1234',
   };
 }
 
 // For use outside React components (fallback values)
 export const API_URL = 'https://web-production-f29e5.up.railway.app';
 
-export const API_KEY = '';
+export const API_KEY = 'backend1234';
