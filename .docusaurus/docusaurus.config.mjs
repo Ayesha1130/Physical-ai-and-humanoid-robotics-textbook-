@@ -21,7 +21,7 @@ export default {
     "localeConfigs": {}
   },
   "customFields": {
-    "apiUrl": "https://ai-rative-book-backend-production.up.railway.app",
+    "apiUrl": "http://web-production-f29e5.up.railway.app",
     "apiKey": ""
   },
   "presets": [
